@@ -1,0 +1,85 @@
+
+h1{font-family: Georgia, 'Times New Roman', Times, serif;
+color:#4aaaa5;background-color: white;}
+
+h2, h3, h4, h5{font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: #4aaaa5;}
+
+.btn-group button {
+    background: url("https://www.transparenttextures.com/patterns/black-thread-light.png");      
+    background-color: white;
+    border: transparent;
+    color: black;
+    padding: 10px;
+    padding-top: 25px;
+    cursor: pointer;
+    float: right;
+    margin-right: 2px; margin-left: 2px;
+    font-size: 20px;
+    }
+
+.btn-group button:hover{
+        background-color: goldenrod;
+    }
+
+.header{
+    background:url("https://www.transparenttextures.com/patterns/black-thread-light.png");
+    background-color: #ffffff;
+    margin-top: -9px;
+    margin-right: -9px;
+    margin-left: -9px;
+    padding-left: 15px;
+}
+
+header{ 
+background: url("https://www.transparenttextures.com/patterns/black-thread-light.png");
+background-color: teal;
+width: 90px;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+body {
+    margin: 0;
+    margin-top: 9px;
+    background-color:#a8a8a8; background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");}
+
+.about-me {
+    border-radius: 7px;
+    width: 900px;
+    height: auto;
+    background: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding-top: 3px; padding-left: 12px; padding-right: 3px;
+    margin-left: 15%;
+    padding-bottom: 8px;
+    margin-bottom: 35px;
+    margin-right: 18px;
+    padding-right: 10px;
+}
+
+.footer{
+    border-top-color: #4aaaa5;
+    border-top-width: 6px;
+    border-top-style: solid;
+    text-align: center;
+    margin-left: -9px;
+    margin-right: 0px;
+    margin-bottom: -20px;
+    padding-bottom: 0px;
+    padding-right: 15px;
+    background:url("https://www.transparenttextures.com/patterns/black-thread-light.png");
+    background-color: gray;
+    box-shadow: 0 50vh 0 50vh gray;
+    } 
+
+.img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px:
+}
